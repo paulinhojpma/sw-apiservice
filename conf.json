@@ -1,0 +1,12 @@
+{
+  "service": "api",  
+  "port": 8890,
+  "allowedParam": "{\"Origins\":[\"*\"],\"Headers\":[\"*\"],\"Methods\":[\"GET\",\"POST\",\"PUT\"]}",
+  
+
+
+  "db-nome": "vicente",
+  "db-driver": "mongoDB",
+  "db-host": "mongodb://localhost:27017"
+
+}

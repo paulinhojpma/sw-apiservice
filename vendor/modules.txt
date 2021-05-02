@@ -1,0 +1,59 @@
+# github.com/caarlos0/env v3.5.0+incompatible
+github.com/caarlos0/env
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+github.com/dgrijalva/jwt-go
+# github.com/fluent/fluent-logger-golang v1.4.0
+github.com/fluent/fluent-logger-golang/fluent
+# github.com/go-redis/redis/v7 v7.0.0-beta.5
+github.com/go-redis/redis/v7
+github.com/go-redis/redis/v7/internal
+github.com/go-redis/redis/v7/internal/consistenthash
+github.com/go-redis/redis/v7/internal/hashtag
+github.com/go-redis/redis/v7/internal/pool
+github.com/go-redis/redis/v7/internal/proto
+github.com/go-redis/redis/v7/internal/util
+# github.com/gorilla/mux v1.7.4
+github.com/gorilla/mux
+# github.com/lib/pq v1.3.0
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/minio/minio-go/v6 v6.0.44
+github.com/minio/minio-go/v6
+github.com/minio/minio-go/v6/pkg/credentials
+github.com/minio/minio-go/v6/pkg/encrypt
+github.com/minio/minio-go/v6/pkg/s3signer
+github.com/minio/minio-go/v6/pkg/s3utils
+github.com/minio/minio-go/v6/pkg/set
+# github.com/minio/sha256-simd v0.1.1
+github.com/minio/sha256-simd
+# github.com/mitchellh/go-homedir v1.1.0
+github.com/mitchellh/go-homedir
+# github.com/philhofer/fwd v1.0.0
+github.com/philhofer/fwd
+# github.com/rs/cors v1.7.0
+github.com/rs/cors
+# github.com/streadway/amqp v0.0.0-20200108173154-1c71cc93ed71
+github.com/streadway/amqp
+# github.com/tinylib/msgp v1.1.1
+github.com/tinylib/msgp/msgp
+# golang.org/x/crypto v0.0.0-20200302210943-78000ba7a073
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/argon2
+golang.org/x/crypto/blake2b
+# golang.org/x/net v0.0.0-20190923162816-aa69164e4478
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/publicsuffix
+golang.org/x/net/idna
+golang.org/x/net/http2/hpack
+# golang.org/x/sys v0.0.0-20191010194322-b09406accb47
+golang.org/x/sys/cpu
+# golang.org/x/text v0.3.2
+golang.org/x/text/secure/bidirule
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+golang.org/x/text/transform
+# gopkg.in/ini.v1 v1.42.0
+gopkg.in/ini.v1
