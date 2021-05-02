@@ -1,4 +1,4 @@
-#SW-API
+# SW-API
 
 
 O SW-API  é um aplicação que recebe requisições HTTP, em que é possível cadastra, remover, consultar, listar os planetas da saga Star Wars. Ele utiliza como banco de dados o MongoDB.
