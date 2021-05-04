@@ -5,7 +5,7 @@
   
 
 
-  "db-nome": "vicente",
+  "db-nome": "StarWars",
   "db-driver": "mongoDB",
   "db-host": "mongodb://localhost:27017"
 
